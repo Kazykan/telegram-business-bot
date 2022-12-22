@@ -1,4 +1,4 @@
-# Pinterest bot
+# Business bot
 
 [![python](https://img.shields.io/badge/python-3.11-green)](https://img.shields.io/badge/python-3.11-green) [![aiogram](https://img.shields.io/badge/aiogram-2.23.1-green)](https://img.shields.io/badge/aiogram-2.23.1-green) [![gspread](https://img.shields.io/badge/gspread-5.7.2-green)](https://img.shields.io/badge/gspread-5.7.2-green)
 
